@@ -25,8 +25,8 @@ def adding
                  }
   # add 2 muskets to the shipping_manifest hash below
   shipping_manifest["muskets"] = 2
-shipping_manifest["gun powder"] = 4
-return shipping_manifest
+  shipping_manifest["gun powder"] = 4
+  return shipping_manifest
 end
 
 
