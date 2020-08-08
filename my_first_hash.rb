@@ -1,6 +1,8 @@
 def my_hash
- my_hash = {my_age => "22"}
+  my_hash = {"my age" => 22
+  }
 end
+
 
 def actor
 
