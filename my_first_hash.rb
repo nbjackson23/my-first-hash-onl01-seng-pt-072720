@@ -1,10 +1,10 @@
 def my_hash
-  my_hash = {"my age" => 22
+  my_hash = {"my age" => 37
   }
 end
  
 def the_manifest
-the_manifest = {"whale bone corsets" => 5,
+  the_manifest = {"whale bone corsets" => 5,
                 "porcelain vases" => 2,
                 "oil paintings" => 3}
 end
